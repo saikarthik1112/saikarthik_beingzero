@@ -8,7 +8,7 @@ app.get('/login', (req, res) => res.send('Login'))
 app.get('/register', (req, res) => res.send('Register'))
 
 var student = {
-    "name":"Sai Karthik",
+    "name":"Sai Karthik Boddula",
     "college":"VNRVJIET",
     "regno":"17071A1270"
 };
